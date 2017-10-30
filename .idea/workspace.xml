@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7408425-d33d-479e-a02f-7614761ae65a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid-system/grid-system-basics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid-nesting/grid-nesting-basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid-offset/grid-offset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid-pull-and-push/grid-pull-and-push.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid-reset/grid-reset-test.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grid-system/grid-system-basics.html" afterPath="$PROJECT_DIR$/grid-system/grid-system-basics.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,11 +31,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grid-system-basics.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="grid-system-basics.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grid-system/grid-system-basics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
+              <folding>
+                <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid-nesting-basic.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grid-nesting/grid-nesting-basic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid-offset.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grid-offset/grid-offset.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid-reset-test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grid-reset/grid-reset-test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid-pull-and-push.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grid-pull-and-push/grid-pull-and-push.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -56,6 +101,10 @@
         <option value="$PROJECT_DIR$/css/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/grid-system/grid-system-basics.html" />
+        <option value="$PROJECT_DIR$/grid-nesting/grid-nesting-basic.html" />
+        <option value="$PROJECT_DIR$/grid-offset/grid-offset.html" />
+        <option value="$PROJECT_DIR$/grid-reset/grid-reset-test.html" />
+        <option value="$PROJECT_DIR$/grid-pull-and-push/grid-pull-and-push.html" />
       </list>
     </option>
   </component>
@@ -100,12 +149,7 @@
             <path>
               <item name="Boooooot" type="b2602c69:ProjectViewProjectNode" />
               <item name="Boooooot" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Boooooot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Boooooot" type="462c0819:PsiDirectoryNode" />
-              <item name="grid-system" type="462c0819:PsiDirectoryNode" />
+              <item name="grid-pull-and-push" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,6 +166,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Christian\Boooooot" />
       <recent name="C:\Users\Christian\WebstormProjects\bootstrap_3_test" />
     </key>
   </component>
@@ -151,12 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509349662445</updated>
       <workItem from="1509349664012" duration="2068000" />
-      <workItem from="1509353836603" duration="990000" />
+      <workItem from="1509353836603" duration="7989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3058000" />
+    <option name="totallyTimeSpent" value="10057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -203,6 +248,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9133">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
@@ -241,8 +287,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grid-system/grid-system-basics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grid-nesting/grid-nesting-basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grid-offset/grid-offset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grid-reset/grid-reset-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grid-pull-and-push/grid-pull-and-push.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
           <folding />
         </state>
       </provider>
